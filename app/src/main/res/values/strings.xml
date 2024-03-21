@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Notes Java</string>
+    <string name="app_name">Notes</string>
+    <string name="create_new_note">Create new note</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="note_title">Note title</string>
+    <string name="note_title_placeholder">Some note title</string>
+    <string name="note_content">Note content</string>
+    <string name="some_note_content">Some note content</string>
 </resources>

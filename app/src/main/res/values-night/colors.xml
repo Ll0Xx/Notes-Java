@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#30174E</color>
+    <color name="colorSecondary">#00534B</color>
+    <color name="textColorTitle">@android:color/white</color>
+    <color name="textColorTitleUnfocused">#c2c2c2</color>
+    <color name="textColorContent">#dedede</color>
+    <color name="noteDialogBackground">#121212</color>
+</resources>
